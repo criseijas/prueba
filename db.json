@@ -1,0 +1,11 @@
+{
+    "producto": [
+      {
+        "image": "assets/trupper.png",
+        "name": "Alura",
+        "price": "165",
+        "id": 1
+    }
+     
+    ]
+  }

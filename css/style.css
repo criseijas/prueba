@@ -1,0 +1,33 @@
+.general-products {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+  }
+  
+  .products_title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 60px 150px 0px 150px;
+    font-size: 32px;
+    font-weight: bold;
+    /* padding: 30px; */
+    color: #464646;
+  } 
+   
+  .seccion-productos {
+    height: 100%;
+      padding: 0px 150px 0px 150px;
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 10px;
+  }
+    
+  h1,
+  p {
+    margin: 8px 0px 8px 0px;
+  }
+  
+  
